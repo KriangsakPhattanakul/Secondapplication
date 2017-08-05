@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Second application</string>
+    <string name="photo">image</string>
+    <string name="edit_user">Username</string>
+    <string name="edit_pass">Password</string>
+    <string name="edit_tel">Tel.</string>
+    <string name="btn_send">ลงทะเบียน</string>
+    <string name="btn_back">Back</string>
+</resources>
